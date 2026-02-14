@@ -9,6 +9,13 @@ El pilar fundamental de esta solución es su comportamiento predecible bajo las 
 * **Latencia Mínima:** 5 ms. (Para garantizar la estabilidad de las lecturas sensoriales).
 * **Mecanismo de Control:** Implementación de **Exclusión Mutua (Mutex)** para proteger el acceso concurrente al búfer circular de datos.
 
+## 🚥 Implementación de Semáforos (Sincronización de Tareas)
+En esta fase del proyecto, se ha integrado un **Semáforo de Sincronización** (`threading.Semaphore`) para gestionar la comunicación entre los componentes del sistema:
+
+* **Hilo Productor (Sensor/Control):** Captura los datos y, tras validar el cumplimiento del *deadline*, libera el semáforo mediante una operación `release()`.
+* **Hilo Consumidor (Actuador/Brazo):** Se mantiene en estado de espera pasiva mediante una operación `acquire()`. Solo se activa cuando recibe la señal del controlador, garantizando que el movimiento físico ocurra únicamente tras una decisión lógica válida.
+* **Diferenciación Técnica:** Se utiliza el **Mutex** para la exclusión mutua en el acceso a recursos compartidos (E/S de consola) y el **Semáforo** para la señalización y dependencia temporal entre hilos.
+
 ## 🛠️ Tecnologías y Metodologías
 * **Lenguaje de Programación:** Python 3.x (Utilizando la librería `threading` para concurrencia).
 * **Modelado:** Diagramas UML (Casos de Uso, Secuencia y Estados) generados mediante **LaTeX (TikZ)**.
