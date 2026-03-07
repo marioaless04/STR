@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultado</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('#searchForm').submit(function(event){
+                event.preventDefault(); // Evitar que el formulario se envíe normalmente
+                var formData = $(this).serialize(); // Obtener los datos del formulario
+                $.post('/search', formData, function(data){
+                    $('#searchResult').html(data); // Reemplazar el contenido del div con id "searchResult" con el resultado de la búsqueda
+                });
+            });
+        });
+    </script>
+</head>
+<body class="container">
+    <h1 class="heading">Resultado</h1>
+    <p>{{ exp_count }} veces se formó una ecuación exponencial.</p>
+    <p>{{ non_exp_count }} veces no se formó una ecuación exponencial.</p>
+    {% if exp_count > 0 %}
+    <h2 class="sub-heading">Ecuaciones Exponenciales Formadas:</h2>
+    <ul class="equations-list">
+    {% for equation in equations %}
+        <li>{{ equation }}</li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+    <h2 class="sub-heading">Inversiones Ordenadas (de mayor a menor):</h2>
+    <ul class="sorted-investments-list">
+    {% for investment in sorted_investments %}
+        <li>{{ investment }}</li>
+    {% endfor %}
+    </ul>
+    <h2 class="sub-heading">Búsqueda de Inversión</h2>
+    <form id="searchForm" class="search-form">
+        <label for="month">Mes:</label>
+        <select id="month" name="month" class="select-field">
+            <option value="1">Enero</option>
+            <option value="2">Febrero</option>
+            <option value="3">Marzo</option>
+        </select>
+        <label for="position">Posición:</label>
+        <input type="number" id="position" name="position" min="1" class="input-field"><br>
+        <input type="hidden" name="sorted_investment" value="{{ sorted_investments_str }}">
+        <input type="submit" value="Buscar" class="submit-btn">
+    </form>
+    <div id="searchResult" class="search-result"></div> <!-- Este elemento mostrará el resultado de la búsqueda -->
+    <a href="/" class="return-link">Volver</a>
+</body>
+</html>

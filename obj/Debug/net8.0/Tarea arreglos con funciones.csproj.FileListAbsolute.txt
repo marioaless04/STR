@@ -1,0 +1,14 @@
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\obj\Debug\net8.0\Tarea arreglos con funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\obj\Debug\net8.0\Tarea arreglos con funciones.AssemblyInfoInputs.cache
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\obj\Debug\net8.0\Tarea arreglos con funciones.AssemblyInfo.cs
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\obj\Debug\net8.0\Tarea arreglos con funciones.csproj.CoreCompileInputs.cache
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\bin\Debug\net8.0\Tarea arreglos con funciones.exe
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\bin\Debug\net8.0\Tarea arreglos con funciones.deps.json
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\bin\Debug\net8.0\Tarea arreglos con funciones.runtimeconfig.json
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\bin\Debug\net8.0\Tarea arreglos con funciones.dll
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\bin\Debug\net8.0\Tarea arreglos con funciones.pdb
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\obj\Debug\net8.0\Tarea arreglos con funciones.dll
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\obj\Debug\net8.0\refint\Tarea arreglos con funciones.dll
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\obj\Debug\net8.0\Tarea arreglos con funciones.pdb
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\obj\Debug\net8.0\Tarea arreglos con funciones.genruntimeconfig.cache
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\obj\Debug\net8.0\ref\Tarea arreglos con funciones.dll

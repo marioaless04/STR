@@ -1,0 +1,12 @@
+# Archivos pesados
+*.zip
+*.rar
+
+# Archivos temporales de .NET/C#
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Archivos de Python
+__pycache__/
+*.pyc

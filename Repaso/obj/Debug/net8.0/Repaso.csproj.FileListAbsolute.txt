@@ -1,0 +1,14 @@
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Repaso\bin\Debug\net8.0\Repaso.exe
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Repaso\bin\Debug\net8.0\Repaso.deps.json
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Repaso\bin\Debug\net8.0\Repaso.runtimeconfig.json
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Repaso\bin\Debug\net8.0\Repaso.dll
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Repaso\bin\Debug\net8.0\Repaso.pdb
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Repaso\obj\Debug\net8.0\Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Repaso\obj\Debug\net8.0\Repaso.AssemblyInfoInputs.cache
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Repaso\obj\Debug\net8.0\Repaso.AssemblyInfo.cs
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Repaso\obj\Debug\net8.0\Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Repaso\obj\Debug\net8.0\Repaso.dll
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Repaso\obj\Debug\net8.0\refint\Repaso.dll
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Repaso\obj\Debug\net8.0\Repaso.pdb
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Repaso\obj\Debug\net8.0\Repaso.genruntimeconfig.cache
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Repaso\obj\Debug\net8.0\ref\Repaso.dll

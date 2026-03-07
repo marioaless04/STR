@@ -1,0 +1,14 @@
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\Herencia\bin\Debug\net8.0\HerenciaSimple.exe
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\Herencia\bin\Debug\net8.0\HerenciaSimple.deps.json
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\Herencia\bin\Debug\net8.0\HerenciaSimple.runtimeconfig.json
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\Herencia\bin\Debug\net8.0\HerenciaSimple.dll
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\Herencia\bin\Debug\net8.0\HerenciaSimple.pdb
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\Herencia\obj\Debug\net8.0\HerenciaSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\Herencia\obj\Debug\net8.0\HerenciaSimple.AssemblyInfoInputs.cache
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\Herencia\obj\Debug\net8.0\HerenciaSimple.AssemblyInfo.cs
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\Herencia\obj\Debug\net8.0\HerenciaSimple.csproj.CoreCompileInputs.cache
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\Herencia\obj\Debug\net8.0\HerenciaSimple.dll
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\Herencia\obj\Debug\net8.0\refint\HerenciaSimple.dll
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\Herencia\obj\Debug\net8.0\HerenciaSimple.pdb
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\Herencia\obj\Debug\net8.0\HerenciaSimple.genruntimeconfig.cache
+C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\Herencia\obj\Debug\net8.0\ref\HerenciaSimple.dll
