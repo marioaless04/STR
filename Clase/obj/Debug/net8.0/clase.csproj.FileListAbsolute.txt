@@ -1,4 +1,0 @@
-C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\obj\Debug\net8.0\clase.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\obj\Debug\net8.0\clase.AssemblyInfoInputs.cache
-C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\obj\Debug\net8.0\clase.AssemblyInfo.cs
-C:\Users\Mario Aless\Documents\Proyectos C#\Tarea arreglos con funciones\Clase\obj\Debug\net8.0\clase.csproj.CoreCompileInputs.cache
